@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
 <html lang="en" dir="ltr" version="HTML+RDFa 1.1"
 	xmlns:fb="http://www.facebook.com/2008/fbml"
@@ -68,46 +70,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 			class="element-invisible element-focusable">Skip to main content</a>
 	</div>
 	<div class="page clearfix" id="page">
-		<header id="section-header" class="section section-header">
-		<div id="zone-branding-wrapper"
-			class="zone-wrapper zone-branding-wrapper clearfix">
-			<div id="zone-branding"
-				class="zone zone-branding clearfix container-12">
-				<div class="grid-12 region region-branding" id="region-branding">
-					<div class="region-inner region-branding-inner">
-						<div class="branding-data clearfix">
-							<hgroup class="site-name-slogan element-invisible">
-
-							<h1 class="site-name element-invisible">
-								<a href="index.html" title="Home" class="active">Pinewood
-									Greens Homeowners Association</a>
-							</h1>
-							</hgroup>
-						</div>
-						<div
-							class="block block-block block-3 block-block-3 odd block-without-title"
-							id="block-block-3">
-							<div class="block-inner clearfix">
-
-								<div class="content clearfix">
-									<div style="width: 100%;">
-										<a href="index.html"><img alt=""
-											src="sites/default/files/images/top.gif" style="float: left" /></a>
-										<div
-											style="width: 100%; height: 80px; background-image: url('/sites/default/files/images/top_rightFill.gif'); background-repeat: repeat-x; align: right; font-weight: bold; color: white">
-											<div style="float: right; padding-right: 20px;">
-												Office Phone<br /> 703-560-8920
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</header>
+		{% include header.html %}
 		<section id="section-content" class="section section-content">
 		<div id="zone-preface-wrapper"
 			class="zone-wrapper zone-preface-wrapper clearfix">
@@ -306,30 +269,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 		</div>
 		</section>
 
-		<footer id="section-footer" class="section section-footer">
-		<div id="zone-footer-wrapper"
-			class="zone-wrapper zone-footer-wrapper clearfix">
-			<div id="zone-footer" class="zone zone-footer clearfix container-12">
-				<div class="grid-12 region region-footer-second"
-					id="region-footer-second">
-					<div class="region-inner region-footer-second-inner">
-						<div
-							class="block block-block block-2 block-block-2 odd block-without-title"
-							id="block-block-2">
-							<div class="block-inner clearfix">
-
-								<div class="content clearfix">
-									<div style="float: left;">2731 Hyson Lane, Falls Church,
-										Virginia 22043</div>
-									<div style="float: right;">Office Phone: 703-560-8920</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</footer>
+		{% include footer.html %}
 	</div>
 	<div class="region region-page-bottom" id="region-page-bottom">
 		<div class="region-inner region-page-bottom-inner"></div>
