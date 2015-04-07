@@ -92,49 +92,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 						<div class="block-inner clearfix">
 
 							<div class="content clearfix">
-								<ul class="menu">
-									<li class="first expanded active-trail"><a
-										href="welcome_home.html" title="" class="active-trail active">Pinewood
-											Greens</a>
-									<ul class="menu">
-											<li class="first leaf"><a href="welcome_home.html"
-												class="active">Welcome Home</a></li>
-											<li class="leaf"><a href="association.html">The
-													Association</a></li>
-											<li class="leaf"><a href="office.html">The Office</a></li>
-											<li class="last leaf"><a
-												href="newslettersandnotices.html">Newsletters and
-													Notices</a></li>
-										</ul></li>
-									<li class="expanded"><a href="our_homes.html" title="">Our
-											Community</a>
-									<ul class="menu">
-											<li class="first leaf"><a href="our_homes.html">Our
-													Homes</a></li>
-											<li class="leaf"><a href="pool.html">Swimming Pool</a></li>
-											<li class="last leaf"><a href="parks.html">Parks and
-													Parties</a></li>
-										</ul></li>
-									<li class="expanded"><a href="schools.html" title="">Around
-											Town</a>
-									<ul class="menu">
-											<li class="first leaf"><a href="schools.html">Schools
-													and Colleges</a></li>
-											<li class="last leaf"><a href="maps_and_metro.html">Maps
-													and Metro</a></li>
-										</ul></li>
-									<li class="last expanded"><a href="schools.html" title="">Resources</a>
-									<ul class="menu">
-											<li class="first leaf"><a
-												href="trash_and_recycling.html">Trash &amp; Recycling</a></li>
-											<li class="leaf"><a href="forms.html">Forms You Can
-													Use</a></li>
-											<li class="leaf"><a href="documents.html">Documents
-													&amp; Policies</a></li>
-											<li class="last leaf"><a href="volunteer.html">Please
-													Volunteer</a></li>
-										</ul></li>
-								</ul>
+								{% include menu.html %}
 							</div>
 						</div>
 					</div>
@@ -246,25 +204,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 						</div>
 					</div>
 				</div>
-				<aside
-					class="grid-3 region region-sidebar-second equal-height-element"
-					id="region-sidebar-second">
-				<div class="region-inner region-sidebar-second-inner">
-					<div
-						class="block block-block block-1 block-block-1 odd block-without-title"
-						id="block-block-1">
-						<div class="block-inner clearfix">
-
-							<div class="content clearfix">
-								<iframe align="center" style="border: solid 1px #777"
-									width="250" height="400"
-									src="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?title=Association%20Calendar&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York"
-									frameborder="5" scrolling="no"></iframe>
-							</div>
-						</div>
-					</div>
-				</div>
-				</aside>
+				{% include google_calendar.html %}
 			</div>
 		</div>
 		</section>
