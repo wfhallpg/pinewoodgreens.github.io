@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
 <html lang="en" dir="ltr" version="HTML+RDFa 1.1"
 	xmlns:fb="http://www.facebook.com/2008/fbml"
@@ -69,45 +71,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 			class="element-invisible element-focusable">Skip to main content</a>
 	</div>
 	<div class="page clearfix" id="page">
-		<header id="section-header" class="section section-header">
-		<div id="zone-branding-wrapper"
-			class="zone-wrapper zone-branding-wrapper clearfix">
-			<div id="zone-branding"
-				class="zone zone-branding clearfix container-12">
-				<div class="grid-12 region region-branding" id="region-branding">
-					<div class="region-inner region-branding-inner">
-						<div class="branding-data clearfix">
-							<hgroup class="site-name-slogan element-invisible">
-							<h2 class="site-name element-invisible">
-								<a href="index.html" title="Home">Pinewood Greens Homeowners
-									Association</a>
-							</h2>
-							</hgroup>
-						</div>
-						<div
-							class="block block-block block-3 block-block-3 odd block-without-title"
-							id="block-block-3">
-							<div class="block-inner clearfix">
-
-								<div class="content clearfix">
-									<div style="width: 100%;">
-										<a href="index.html"><img alt=""
-											src="sites/default/files/images/top.gif" style="float: left" /></a>
-										<div
-											style="width: 100%; height: 80px; background-image: url('/sites/default/files/images/top_rightFill.gif'); background-repeat: repeat-x; align: right; font-weight: bold; color: white">
-											<div style="float: right; padding-right: 20px;">
-												Office Phone<br /> 703-560-8920
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</header>
+		{% include header.html %}
 		<section id="section-content" class="section section-content">
 		<div id="zone-preface-wrapper"
 			class="zone-wrapper zone-preface-wrapper clearfix">
@@ -136,48 +100,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 						<div class="block-inner clearfix">
 
 							<div class="content clearfix">
-								<ul class="menu">
-									<li class="first expanded"><a href="welcome_home.html"
-										title="">Pinewood Greens</a>
-									<ul class="menu">
-											<li class="first leaf"><a href="welcome_home.html">Welcome
-													Home</a></li>
-											<li class="leaf"><a href="association.html">The
-													Association</a></li>
-											<li class="leaf"><a href="office.html">The Office</a></li>
-											<li class="last leaf"><a
-												href="newslettersandnotices.html">Newsletters and
-													Notices</a></li>
-										</ul></li>
-									<li class="expanded active-trail"><a href="our_homes.html"
-										title="" class="active-trail">Our Community</a>
-									<ul class="menu">
-											<li class="first leaf"><a href="our_homes.html">Our
-													Homes</a></li>
-											<li class="leaf"><a href="pool.html">Swimming Pool</a></li>
-											<li class="last leaf active-trail"><a href="parks.html"
-												class="active-trail active">Parks and Parties</a></li>
-										</ul></li>
-									<li class="expanded"><a href="schools.html" title="">Around
-											Town</a>
-									<ul class="menu">
-											<li class="first leaf"><a href="schools.html">Schools
-													and Colleges</a></li>
-											<li class="last leaf"><a href="maps_and_metro.html">Maps
-													and Metro</a></li>
-										</ul></li>
-									<li class="last expanded"><a href="schools.html" title="">Resources</a>
-									<ul class="menu">
-											<li class="first leaf"><a
-												href="trash_and_recycling.html">Trash &amp; Recycling</a></li>
-											<li class="leaf"><a href="forms.html">Forms You Can
-													Use</a></li>
-											<li class="leaf"><a href="documents.html">Documents
-													&amp; Policies</a></li>
-											<li class="last leaf"><a href="volunteer.html">Please
-													Volunteer</a></li>
-										</ul></li>
-								</ul>
+								{% include menu.html %}
 							</div>
 						</div>
 					</div>
@@ -297,53 +220,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 						</div>
 					</div>
 				</div>
-				<aside
-					class="grid-3 region region-sidebar-second equal-height-element"
-					id="region-sidebar-second">
-				<div class="region-inner region-sidebar-second-inner">
-					<div
-						class="block block-block block-1 block-block-1 odd block-without-title"
-						id="block-block-1">
-						<div class="block-inner clearfix">
-
-							<div class="content clearfix">
-								<iframe align="center" style="border: solid 1px #777"
-									width="250" height="400"
-									src="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?title=Association%20Calendar&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York"
-									frameborder="5" scrolling="no"></iframe>
-							</div>
-						</div>
-					</div>
-				</div>
-				</aside>
+				{% include google_calendar.html %}
 			</div>
 		</div>
 		</section>
 
-		<footer id="section-footer" class="section section-footer">
-		<div id="zone-footer-wrapper"
-			class="zone-wrapper zone-footer-wrapper clearfix">
-			<div id="zone-footer" class="zone zone-footer clearfix container-12">
-				<div class="grid-12 region region-footer-second"
-					id="region-footer-second">
-					<div class="region-inner region-footer-second-inner">
-						<div
-							class="block block-block block-2 block-block-2 odd block-without-title"
-							id="block-block-2">
-							<div class="block-inner clearfix">
-
-								<div class="content clearfix">
-									<div style="float: left;">2731 Hyson Lane, Falls Church,
-										Virginia 22043</div>
-									<div style="float: right;">Office Phone: 703-560-8920</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</footer>
+		{% include footer.html %}
 	</div>
 	<div class="region region-page-bottom" id="region-page-bottom">
 		<div class="region-inner region-page-bottom-inner"></div>
