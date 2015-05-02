@@ -115,4 +115,19 @@ img {
 	background-color: #980000;
 	color: #fff
 }
+.portalbtn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  color: #ffffff;
+  font-size: 16px;
+  background: #980000;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
 
+.portalbtn:hover {
+  background: #ffce63;
+  color: #000000;
+  text-decoration: none;
+}
