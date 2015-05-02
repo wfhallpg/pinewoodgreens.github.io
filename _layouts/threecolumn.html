@@ -5,15 +5,18 @@
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %}  </title>
   <link rel="stylesheet" href="/css/styles.css" />
-<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-
 </head>
 
   <body>
 
+<div id="header">
 
     {% include header.html %}
-	
+
+</header>
+	<div class="menu">
+    {% include menu.html %}
+</div>
 
 <div class="colmask threecol">
 	<div class="colmid">
@@ -22,9 +25,7 @@
 				{{ content }}
 			</div>
 			<div class="col2">
-			<div class="menu">
-    {% include menu.html %}
-</div>
+			
 
 			</div>
 			<div class="col3">
@@ -39,11 +40,11 @@
 
 
 
-   <div class="footer">
+   <footer>
 	<div style="float: left;">2731 Hyson Lane, Falls Church,
                                                                                 Virginia 22043</div>
-                                                                        <div style="float: right;">Community Office Phone: 703-560-8920</div>
-</div>
+                                                                        <div style="float: right;">Office Phone: 703-560-8920</div>
+</footer>
 
   </body>
 
