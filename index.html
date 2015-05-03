@@ -2,9 +2,13 @@
 layout: default
 title: Pinewood Greens
 ---
-<div>
+
 <p style="font-weight: bold; color:#FF0000">Important new information for homeowners and residents. <br>See <a href="residentservice.html">Resident Service</a> for information regarding management transition</p>
-    {% include welcome_home.html %}
+
+{% capture fileContent %}
+  {% include welcome_home.md %}
+{% endcapture %}
+
+{{ fileContent | markdownify }}
 												
-</div>
 								
