@@ -1,3 +1,4 @@
+
 # Welcome Home
 
 When you think about home, you're bound to think about wide open spaces with kids playing ball games on sunny afternoons, streets lined with trees that give shade in the summer, a rainbow of umbrellas around the pool, and quiet homes that provide refuge to kids and parents and friends. You have just imagined the picture of Pinewood Greens.<img alt="" longdesc="Front of house" src="images/2783.jpg" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; float: right; width: 287px; height: 264px;" />
