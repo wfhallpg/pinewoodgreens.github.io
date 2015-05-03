@@ -20,4 +20,3 @@ It is important for you to remember that you must submit an Application for Arch
 *   [Annual Meeting Proxy Form](documents/forms/Annual_Meeting_Proxy.pdf) - Please submit prior to the Annual Meeting even if you plan to attend.
 
 <img alt="Association Office Door" src="images/office_door.jpg" style="float: right;" />
-</html>
