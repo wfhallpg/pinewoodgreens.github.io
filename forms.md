@@ -2,52 +2,22 @@
 layout: default
 title: Forms You Can Use
 ---
-{% if page.title %} <h1>{{ page.title }}</h1> {% endif %}
-<p>
+{% if page.title %}
+#{{ page.title }}
+{% endif %}
+It is important for you to remember that you must submit an Application for Architectural Review before you make any changes to the outside of your property. Here are some forms for you the print out and drop off at the community center. Print out a copy from this website and drop it off at the Association office after you fill it out.
 
-It is important for you to remember that you must submit an Application for Architectural Review before you make any changes to the outside of your property. Here are some forms for you the print out and drop off at the community center. Print out a copy from this website and drop it off at the Association office after you fill it out.</p>
+*   [Application for Architectural Review](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211560)
+    *   [Architecture and Maintenance Guidelines](https://onedrive.live.com/redir?resid=529E6218CA92DA58%214991) (effective 11/19/2014)
+    *   Egress Window and Well [Guideline](documents/ACC/Egress window and well guideline-v20110126.pdf) and [Checklist](documents/ACC/Egress window and well checklist-v20110126.pdf) _(adopted 1/26/2011)_
+*   [Pool Pass Application](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211548)
+*   [Application for the Use of the Community Center](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211556)     
+     **Note: Rental fee is $225 plus a $250 security deposit.**
+*   Fence Paint Formula Sheet
+     **(Call office for up to date information due to formula changes)**
+*   [Change of Address Forms](documents/forms/Change_of_Address.pdf)
+*   [Using the Ladder and Other Tools](documents/forms/Ladder_Tool_Agreement.pdf) (call for a reservation first)
+*   [Annual Meeting Proxy Form](documents/forms/Annual_Meeting_Proxy.pdf) - Please submit prior to the Annual Meeting even if you plan to attend.
 
-														<ul>
-															<li><a
-																href="https://skydrive.live.com/redir?resid=529E6218CA92DA58%211560"
-																target="_new">Application for Architectural Review</a>
-																<ul>
-																	<li><a
-																		href="https://onedrive.live.com/redir?resid=529E6218CA92DA58%214991">Architecture
-																			and Maintenance Guidelines</a> (effective 11/19/2014)</li>
-																	<li>Egress Window and Well <a
-																		href="documents/ACC/Egress&#32;window&#32;and&#32;well&#32;guideline-v20110126.pdf">
-																			Guideline</a> and <a
-																		href="documents/ACC/Egress&#32;window&#32;and&#32;well&#32;checklist-v20110126.pdf">Checklist</a>
-																		<i>(adopted 1/26/2011)</i></li>
-																</ul></li>
-															<li><a
-																href="https://skydrive.live.com/redir?resid=529E6218CA92DA58%211548"
-																target="_new">Pool Pass Application</a></li>
-															<li><a
-																href="https://skydrive.live.com/redir?resid=529E6218CA92DA58%211556"
-																target="_new">Application for the Use of the
-																	Community Center</a>     <br />
-															<b>Note: Rental fee is $225 plus a $250 security
-																	deposit.</b></li>
-															<li>Fence Paint Formula Sheet<br />
-															<b>(Call office for up to date information due to
-																	formula changes)</b></li>
-															<li><a
-																href="documents/forms/Change_of_Address.pdf"
-																target="_new">Change of Address Forms</a></li>
-															<li><a
-																href="documents/forms/Ladder_Tool_Agreement.pdf"
-																target="_new">Using the Ladder and Other Tools</a> (call
-																for a reservation first)</li>
-															<li><a
-																href="documents/forms/Annual_Meeting_Proxy.pdf"
-																target="_new">Annual Meeting Proxy Form</a> - Please
-																submit prior to the Annual Meeting even if you plan to
-																attend.</li>
-														</ul>
-													<p>
-														<img alt="Association Office Door" 															src="images/office_door.jpg"
-															style="float: right;" />
-													</p>
+<img alt="Association Office Door" src="images/office_door.jpg" style="float: right;" />
 </html>
