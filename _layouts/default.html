@@ -4,12 +4,65 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{% if page.title %} {{ page.title }} {% endif %}</title>
-    <link rel="stylesheet" href="css/foundation.css" />
+<!-- If you are using the gem version, you need this only -->
+<!-- If you are using the CSS version, only link these 2 files, you may add app.css to use for your overrides if you like -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/foundation.css">
+  <link rel="stylesheet" href="css/pwg.css">
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
 
-<nav class="top-bar" data-topbar role="navigation">
+<!--
+        <nav class="tab-bar show-for-small">
+  <a class="left-off-canvas-toggle menu-icon">
+<h1>Pinewood Greens HOA</h1>
+  </a>
+</nav>
+
+<div class="off-canvas-wrap" data-offcanvas>
+<div class="inner-wrap">
+<aside class="left-off-canvas-menu">
+
+<ul class="off-canvas-list">
+<li><label class="first">Pinewood Greens HOA</label></li>
+<li><a href="index.html">Home</a></li>
+</ul>
+<hr/>
+<li><a href="association.html">About</a></li>
+<hr>
+<ul class="off-canvas-list">
+<li><label>Our Community</label></li>
+<li><a href="our_homes.html">Our Homes</a></li>
+<li><a href="pool.html">Swimming Pool</a></li>  
+<li><a href="parks.html">Parks and Parties</a></li> 
+</ul> </li> 
+<hr/>
+<ul class="off-canvas-list">
+<li><label>Around Town</label></li>
+<li><a href="schools.html">Schools and Colleges</a></li>
+<li><a href="maps_and_metro.html">Maps and Metro</a></li>  
+</ul> </li> 
+<hr/>
+<ul class="off-canvas-list">
+<li><label>Homeowner Resources</label></li>
+<li><a href="trash_and_recycling.html">Trash and Recycling</a></li>
+<li><a href="forms.html">Forms</a></li>  
+<li><a href="documents.html">Documents and Policies</a></li> 
+<li><a href="volunteer.html">Volunteer</a></li> 
+<li><a href="office.html">Office</a></li>
+<li><a href="residentservice.html">Resident Service</a></li>
+<li><a href="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York">Association Calendar</a> </li> 
+</ul>  
+</ul>
+</aside>
+<a class="exit-off-canvas"></a>
+</div></div>
+-->
+
+<div class="off-canvas-wrap show-for-small" data-offcanvas> <div class="inner-wrap"> <nav class="tab-bar"> <section class="left-small"> <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a> </section> <section class="middle tab-bar-section"> <h1 class="title">Foundation</h1> </section> <section class="right-small"> <a class="right-off-canvas-toggle menu-icon" href="#"><span></span></a> </section> </nav> <aside class="left-off-canvas-menu"> <ul class="off-canvas-list"> <li><label>Foundation</label></li> <li><a href="#">The Psychohistorians</a></li> <li><a href="#">...</a></li> </ul> </aside> <aside class="right-off-canvas-menu"> <ul class="off-canvas-list"> <li><label>Users</label></li> <li><a href="#">Hari Seldon</a></li> <li><a href="#">...</a></li> </ul> </aside> <section class="main-section"> <!-- content goes here --> </section> <a class="exit-off-canvas"></a> </div> </div>
+
+<nav class="top-bar hide-for-small" data-topbar role="navigation">
  <ul class="title-area">
  <li class="name"> <h1><a href="#">Pinewood Greens Homeowners Association</a></h1> </li> <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone --> 
 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li> </ul> 
@@ -40,24 +93,22 @@
 <li><a href="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York">Association Calendar</a>
 </ul> </li> 
 </ul>  </section> </nav>
-		<div>
-			<div>
+			<div class="row">
 				{{ content }}
 			</div>
-			<div>
+<!--
+			<div class="row">
 				<iframe align="center" style="border: solid 1px #777"
                                                                         width="250" height="400"
                                                                         src="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?title=Association%20Calendar&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York"
                                                                         frameborder="5" scrolling="no"></iframe>
 			</div>
-		</div>
 
-
-   <div class="footer">
+-->
+   <div class="row">
 	<div style="float: left;">2731 Hyson Lane, Falls Church,
                                                                                 Virginia 22043</div>
                                                                         <div style="float: right;">Community Office Phone: 703-560-8920</div>
-    
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
     <script>
