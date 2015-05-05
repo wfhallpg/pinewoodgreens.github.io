@@ -2,13 +2,14 @@
 layout: default
 title: The Association
 ---
+
 {% if page.title %} 
 # {{ page.title }} 
 {% endif %}
 
 In Pinewood Greens we are an association of neighbors. What we do is guided by an elected Board of Directors, a handful of committees, and an active contingent of volunteers who give their time to make our Association work.
 
-#The Board of Directors
+# The Board of Directors
 
 Nine people have been elected by the members to direct our Association. Our meetings are held monthly at the community center, 2731 Hyson Lane, Falls Church, Virginia 22043.
 
@@ -18,7 +19,7 @@ Dates and times for Board meetings are also posted on the bulletin board at the 
 
 If you ever need to talk to one of the members of Board, call the Association office and one of us will call you back.
 
-#The Association Committees
+# The Association Committees
 
 We hope you can join one of our committees:
 
@@ -30,7 +31,7 @@ We hope you can join one of our committees:
 
 Dates and times for committee meetings are posted on association calendar and the bulletin board at the front of the community center.
 
-#Our Governing Documents
+# Our Governing Documents
 
 - [Declaration of Covenants](documents/legal/Declaration_of_Covenants.pdf){:target="_new"} (these are part of the deed to your property)
 - [Bylaws](documents/legal/Bylaws.pdf){:target="_new"}
@@ -38,7 +39,7 @@ Dates and times for committee meetings are posted on association calendar and th
 
 As part of the sale process for houses in the community, it is neccessary to supply these documents and others to the purchaser. To request an official packet from the association you must fill out the [VPOAA Disclosure Request Form](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211553){:target="_new"}
 
-#Policies
+# Policies
 
 Please see the [policies](documents.html) page for up to date copies of adopted policies and procedures.
 

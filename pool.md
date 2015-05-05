@@ -3,7 +3,7 @@ layout: default
 title: Making Waves – Summers at the Pool
 ---
 {% if page.title %}
-#{{ page.title }}
+# {{ page.title }}
 {% endif %}
 
 

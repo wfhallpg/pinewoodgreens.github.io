@@ -2,9 +2,11 @@
 layout: default
 title: Forms You Can Use
 ---
+
 {% if page.title %}
-#{{ page.title }}
+# {{ page.title }}
 {% endif %}
+
 It is important for you to remember that you must submit an Application for Architectural Review before you make any changes to the outside of your property. Here are some forms for you the print out and drop off at the community center. Print out a copy from this website and drop it off at the Association office after you fill it out.
 
 *   [Application for Architectural Review](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211560)

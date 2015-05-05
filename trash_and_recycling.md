@@ -3,7 +3,7 @@ layout: default
 title: Trash and Recycling
 ---
 {% if page.title %}
-#{{ page.title }}
+# {{ page.title }}
 {% endif %}
 
 Taking care of the community is a responsibility that we all share.

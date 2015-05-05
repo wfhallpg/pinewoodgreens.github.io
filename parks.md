@@ -3,7 +3,7 @@ layout: default
 title: Parks and Parties
 ---
 {% if page.title %}
-#{{ page.title }}
+# {{ page.title }}
 {% endif %}
 ## We Know How to Have Fun
 

@@ -4,7 +4,7 @@ title: Schools and Colleges
 ---
 
 {% if page.title %} 
-#{{ page.title }}
+# {{ page.title }}
 {% endif %}
 
 ## Local Schools – We’re Proud of Our Kids
