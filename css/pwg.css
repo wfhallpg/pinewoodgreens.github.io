@@ -1,0 +1,59 @@
+
+.pwglogo {
+ font-family: 'Open Sans', sans-serif;
+ font-size: 2em;
+color: #000;
+font-style:bold;
+ margin-bottom: 5px;
+ }
+.pwglogosm {
+font-family: 'Open Sans', sans-serif;
+ font-size: 1.2em;
+ font-style: italic;
+ color: #000;
+ }
+
+.whitetext {
+
+  color: #FFF;
+}
+
+.frontimagecontainer{ 
+  display: table;
+  width: 100%;
+background-color: rgba(0,0,0,0.0);
+}
+.frontimagetextcontainer {
+  display: table-cell;
+  vertical-align: middle;
+background-color: rgba(0,0,0,0.0);
+}
+.frontimagetext {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+#wrapper {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100% !important;
+    z-index: 0;
+}
+
+.transparent {
+   background-color: rgba(0,0,0,0);
+}
+.pwgalert {
+    background-color: #FF8080;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+
