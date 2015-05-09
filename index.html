@@ -2,11 +2,29 @@
 layout: default
 title: Pinewood Greens
 ---
-<p style="font-weight: bold; color:#FF0000">Important new information for homeowners and residents. <br>See <a href="residentservice.html">Resident Service</a> for information regarding management transition</p>
+
+<div class="row">
+<div class=" pwgalert">Important new information for homeowners and residents. <br>See <a href="residentservice.html">Resident Service</a> for information regarding management transition</div>
+</div>
+
+
+                    <div class="row frontimagecontainer" style="background: url('images/treecover.jpg') 50% 0 no-repeat; height: 450px;">
+                        <div class="medium-8 columns medium-centered frontimagetextcontainer" >
+				<div class="frontimagetext">
+                            <h1 class="text-center whitetext">Welcome Home</h1>
+                            <p class="text-justify whitetext">We are an association of homeowners in the Pinewood Greens community.  Our community wouldn't be as great as it is without the hard work of many volunteer homeowners such as yourself.  We are always looking for volunteers for everything from small one-time tasks to ongoing help.  If you're interested in helping out, we would love to hear from you.</p>
+                            <p>
+                                <a class="button" href="volunteer.html">Get Involved</a>
+                            </p>
+</div>
+                        </div>
+                    </div>
+					
+
 
 {% capture fileContent %}
   {% include welcome_home.md %}
 {% endcapture %}
 {{ fileContent | markdownify }}
-												
-								
+
+ 
