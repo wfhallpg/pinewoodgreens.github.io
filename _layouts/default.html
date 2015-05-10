@@ -15,50 +15,7 @@
   </head>
   <body>
 <!-- HEADER AREA -->
-
-    <div class="row"><div class="large-6 columns"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/treeicon.svg"/></a>
-    </div><div class="large-6 columns text-right"><div class="row">Resident Service: 1-855-477-2267 (8:30am-8:00pm) (EST) <a class="button tiny" href="http://www.ciranet.com/ResidentPortal">Portal Login</a></div></div></div>
-<!-- NAVIGATION AREA -->
-<div class="row">
-<nav class="top-bar" data-topbar role="navigation">
- <ul class="title-area">
-<li class="name">
-      
-    </li>
-<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li> </ul> 
-<section class="top-bar-section"> 
-<!-- Right Nav Section --> 
-<ul> 
-<li class="has-dropdown"><a href="association.html">About Our Community</a>
-<ul class="dropdown"> 
-<li><a href="association.html">The Association</a></li>
-<li><a href="our_homes.html">Our Homes</a></li>
-<li><a href="pool.html">Swimming Pool</a></li>  
-<li><a href="parks.html">Parks and Parties</a></li> 
-</ul> </li> 
-<li class="has-dropdown"><a href="maps_and_metro.html">Around Town</a>
-<ul class="dropdown"> 
-<li><a href="schools.html">Schools and Colleges</a></li>
-<li><a href="maps_and_metro.html">Maps and Metro</a></li>  
-</ul> </li> 
-<li class="has-dropdown"><a href="residentservice.html">Homeowner and Resident Resources</a> 
-<ul class="dropdown"> 
-
-<li><a href="trash_and_recycling.html">Trash and Recycling</a></li>
-<li><a href="forms.html">Forms</a></li>  
-<li><a href="policies.html">Community Policies</a></li> 
-<li><a href="volunteer.html">Volunteer</a></li> 
-<li><a href="office.html">Office</a></li>
-</ul> </li> 
-<li class="has-dropdown"><a href="maps_and_metro.html">Community News</a>
-<ul class="dropdown"> 
-<li><a href="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York">Association Calendar</a>
-<li><a href="announcements.html">Facebook Announcements Feed</a></li>
-<li><a href="news.html">Neighborhood News and Features</a></li>
-</ul> </li> 
-
-<li><a href="http://www.ciranet.com/ResidentPortal">Resident Portal</a></li>
-</ul>  </section> </nav></div>
+{% include header.html %}
 <section id="main-content">
 			<div class="row"><div class=" large-12 columns">
 				{{ content }}
@@ -73,12 +30,7 @@
 
 -->
 </section>
-   <div class="row">
-	<div class="large-6 columns">2731 Hyson Lane, Falls Church,
-                                                                                Virginia 22043</div>
-<div class="large-6 columns text-right">Community Office Phone: 703-560-8920</div>
-
-</div>
+{% include footer.html %}
 
     <script src="{{site.baseurl}}/js/vendor/jquery.js"></script>
     <script src="{{site.baseurl}}/js/foundation.min.js"></script>
