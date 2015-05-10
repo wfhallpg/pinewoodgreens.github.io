@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: default_with_title
 title: Making Waves – Summers at the Pool
 ---
-{% if page.title %}
-# {{ page.title }}
-{% endif %}
-
 
 From May to September, home for many of us is a lounge chair by our pool. Some of us go to the pool for a few ZZZs in the sun. Others actually go to swim.
 

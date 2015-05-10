@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: default_with_title
 title: Parks and Parties
 ---
-{% if page.title %}
-# {{ page.title }}
-{% endif %}
+
 ## We Know How to Have Fun
 
 <img alt="" src="sites/default/files/images/golf_course.jpg" style="float: right;" />We are lucky that our next door neighbor is the [Jefferson District Golf Course](http://www.fairfaxcounty.gov/parks/golf/jefferson/) – it’s not necessary to get in the car to find a place for exercise. Most of us have used the tennis courts, basketball courts, a nine-hole golf course lined with trees, and a [miniature golf](http://www.fairfaxcounty.gov/parks/golf/jeffersongc/minigolf.htm) course where it is actually possible to get a hole in one.

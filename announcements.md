@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: default_with_title
 title: Announcements
 ---
 
-{% if page.title %} 
-# {{ page.title }}
-{% endif %}
 
 Pinewood Greens announcements are posted to our [Facebook page](http://www.facebook.com/pages/Pinewood-Greens-HOA/116639735027256?v=wall). You do not need to have a Facebook account to view the announcements, but if you are a Facebook member "Like" us to be kept up to date with Pinewood Greens announcements!
 

@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: default_with_title
 title: Community Policies
 ---
-{% if page.title %}
-# {{ page.title }}
-{% endif %}
 
 ## Architecture and Maintenance
 													

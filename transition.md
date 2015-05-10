@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: default_with_title
 title: New Management Transition Information
 ---   
-{% if page.title %}
-# {{ page.title }}
- {% endif %}
+
 As of May 1st, 2015, Pinewood Greens is managed by [Community Association Management Professionals (CAMP)](http://www.gocampmgmt.com/). 
 
 ## Resident Service Center

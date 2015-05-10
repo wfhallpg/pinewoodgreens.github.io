@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: default_with_title
 title: Our Homes
 ---
-
-{% if page.title %} 
-# {{ page.title }}
-{% endif %}
 
 <img alt="" src="images/houses.jpg" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; float: right; width: 214px; height: 244px;" />What everyone notices first about Pinewood Greens is the amazing amount of green space not found in most townhouse communities.
 

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: default_with_title
 title:  Neighborhood News and Features
 ---
-
-# Neighborhood News and Features
 
 <ul class="posts">  
 	{% for post in site.posts limit:20 %}  

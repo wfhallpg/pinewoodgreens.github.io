@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: default_with_title
 title: Schools and Colleges
 ---
-
-{% if page.title %} 
-# {{ page.title }}
-{% endif %}
 
 ## Local Schools – We’re Proud of Our Kids
 
