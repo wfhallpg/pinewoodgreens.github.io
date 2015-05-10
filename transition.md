@@ -7,6 +7,10 @@ title: New Management Transition Information
  {% endif %}
 As of May 1st, 2015, Pinewood Greens is managed by [Community Association Management Professionals (CAMP)](http://www.gocampmgmt.com/). 
 
+## Resident Service Center
+
+For assistance, contact the Resident Service Center at 1-855-477-2267.  Resident service is available 8:30am-8:00pm (EST), Monday-Friday.  Resident service is also available via electronic message through the Resident Portal.
+
 ## Payment Information
 
 Assessments are no longer processed by the association office.  Checks must now be mailed to:
@@ -18,7 +22,11 @@ Assessments are no longer processed by the association office.  Checks must now 
 
 Online Payment options are now available through the [resident portal](http://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
 
-## Resident Service Center
+## Architectural Review Applications
 
-For assistance, contact the Resident Service Center at 1-855-477-2267.  Resident service is available 8:30am-8:00pm (EST), Monday-Friday.  Resident service is also available via electronic message through the Resident Portal.
+Architectural Applications for exterior modifications may now be submitted online.  The form may be uploaded through the [resident portal](http://www.ciranet.com/ResidentPortal).
+
+## Pool Pass Applications
+
+Pool Pass applications are still submitted by paper to the association office.
 

@@ -7,17 +7,17 @@
 <!-- If you are using the gem version, you need this only -->
 <!-- If you are using the CSS version, only link these 2 files, you may add app.css to use for your overrides if you like -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/foundation.css">
-  <link rel="stylesheet" href="css/pwg.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/foundation.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/pwg.css">
 
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
 <!-- HEADER AREA -->
 
-    <div class="row"><div class="large-6 columns"><a href="{{site.baseurl}}/index.html"><img src="images/treeicon.svg"/></a>
-    </div><div class="large-6 columns text-right"><a href="http://www.facebook.com/PinewoodGreens"><img src="http://static.viewbook.com/images/social_icons/facebook_32.png"/>Follow us on Facebook</a></div></div>
+    <div class="row"><div class="large-6 columns"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/treeicon.svg"/></a>
+    </div><div class="large-6 columns text-right"><div class="row">Resident Service: 1-855-477-2267 (8:30am-8:00pm) (EST) <a class="button tiny" href="http://www.ciranet.com/ResidentPortal">Portal Login</a></div></div></div>
 <!-- NAVIGATION AREA -->
 <div class="row">
 <nav class="top-bar" data-topbar role="navigation">
@@ -49,10 +49,14 @@
 <li><a href="policies.html">Community Policies</a></li> 
 <li><a href="volunteer.html">Volunteer</a></li> 
 <li><a href="office.html">Office</a></li>
-<li><a href="residentservice.html">Resident Service</a></li>
 </ul> </li> 
+<li class="has-dropdown"><a href="maps_and_metro.html">Community News</a>
+<ul class="dropdown"> 
 <li><a href="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York">Association Calendar</a>
-<li><a href="announcements.html">Announcements</a></li>
+<li><a href="announcements.html">Facebook Announcements Feed</a></li>
+<li><a href="news.html">Neighborhood News and Features</a></li>
+</ul> </li> 
+
 <li><a href="http://www.ciranet.com/ResidentPortal">Resident Portal</a></li>
 </ul>  </section> </nav></div>
 <section id="main-content">
@@ -76,8 +80,8 @@
 
 </div>
 
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
+    <script src="{{site.baseurl}}/js/vendor/jquery.js"></script>
+    <script src="{{site.baseurl}}/js/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
