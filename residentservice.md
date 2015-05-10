@@ -16,7 +16,7 @@ Assessments are no longer processed by the association office.  Checks must now 
 >211 E. Lombard Street, PMB/BOX #134  
 >Baltimore, MD 21202-6102
 
-Online Payment options are now available through the [resident portal]("http://www.ciranet.com/ResidentPortal").  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
+Online Payment options are now available through the [resident portal](http://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
 
 ## Resident Service Center
 
