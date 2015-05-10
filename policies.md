@@ -1,16 +1,10 @@
 ---
 layout: default
-title: Documents and Policies
+title: Community Policies
 ---
 {% if page.title %}
 # {{ page.title }}
 {% endif %}
-
-
-Currently many documents and policies are scattered around the website.  They will be consolidated here over the next several months.
-
-
-# Policies
 
 ## Architecture and Maintenance
 													
@@ -18,7 +12,7 @@ Currently many documents and policies are scattered around the website.  They w
 
 ## Rules and Regulations
 
-- [Parking Rules](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211549")  (effective 8/1/2013)
+- [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf")  (effective 8/1/2013)
 - [Use of the Common Grounds](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211546) (effective 8/1/2013)
 - [Use of the Community Center](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211556)
 - [Pool Rules](https://onedrive.live.com/redir?resid=529E6218CA92DA58%211547) (effective 8/1/2013
