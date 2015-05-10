@@ -1,18 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{% if page.title %} {{ page.title }} {% endif %}</title>
-<!-- If you are using the gem version, you need this only -->
-<!-- If you are using the CSS version, only link these 2 files, you may add app.css to use for your overrides if you like -->
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/foundation.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/pwg.css">
-
-    <script src="js/vendor/modernizr.js"></script>
-  </head>
+{% include head.html %}
   <body>
 <!-- HEADER AREA -->
 {% include header.html %}
@@ -20,22 +8,9 @@
 			<div class="row"><div class=" large-12 columns">
 				{{ content }}
 </div></div>
-<!--
-			<div class="row">
-				<iframe align="center" style="border: solid 1px #777"
-                                                                        width="250" height="400"
-                                                                        src="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?title=Association%20Calendar&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York"
-                                                                        frameborder="5" scrolling="no"></iframe>
-			</div>
 
--->
 </section>
 {% include footer.html %}
-
-    <script src="{{site.baseurl}}/js/vendor/jquery.js"></script>
-    <script src="{{site.baseurl}}/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
+{% include scriptblock.html %}
   </body>
 </html>
