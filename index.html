@@ -24,15 +24,20 @@ title: Pinewood Greens
 
 <div class="row">
 	            <div class="col-md-6">
-			<h3>Announcements</h3>
+<div class="panel panel-success">
+			<div class="panel-heading">Announcements</div>
+<div class="panel-body">
  {% capture fileContent %}
 {% include announcements.md %}
 {% endcapture %}
 {{ fileContent | markdownify }}
-
+</div>
+</div>
 	            </div>
 <div class="col-md-6">
-			<h3>Neighborhood News</h3>
+<div class=" panel panel-success">
+			<div class="panel-heading">Neighborhood News</div>
+<div class="panel-body">
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
@@ -40,7 +45,7 @@ title: Pinewood Greens
       {{ post.excerpt }}
     </li>
   {% endfor %}
-</ul>
+</ul></div></div>
 	            </div>
 </div>
 
