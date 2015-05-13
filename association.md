@@ -37,7 +37,7 @@ As part of the sale process for houses in the community, it is neccessary to sup
 
 # Policies
 
-Please see the [policies](documents.html) page for up to date copies of adopted policies and procedures.
+Please see the [policies](policies.html) page for up to date copies of adopted policies and procedures.
 
 
 	
