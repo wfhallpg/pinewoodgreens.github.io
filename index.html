@@ -4,28 +4,26 @@ title: Pinewood Greens
 ---
 
 <div class="row">
-	            <div class="medium-9 columns">
-                    <div class="row frontimagecontainer" style="background: url('images/treecover.jpg') 50% 0 no-repeat; height: 450px;">
-                        <div class="medium-10 columns medium-centered frontimagetextcontainer" >
-				<div class="frontimagetext">
-                            <h1 class="text-center whitetext">Welcome Home</h1>
-                            <p class="text-justify whitetext">We are an association of homeowners in the Pinewood Greens community.  Our community wouldn't be as great as it is without the hard work of many volunteer homeowners such as yourself.  We are always looking for volunteers for everything from small one-time tasks to ongoing help.  If you're interested in helping out, we would love to hear from you.</p>
-                                <a class="button" href="volunteer.html">Get Involved</a>
-</div>
-                        </div>
+	            <div class="col-md-9">
+                    <div class="jumbotron" style="background: url('images/treecover.jpg') 50% 0 no-repeat;">
+                        <div class="container" style="background-color: rgba(0,0,0,0.8);">
+                            <h1 class="text-center" style="color: #fff;">Welcome Home</h1>
+                            <p class="whitetext">We are an association of homeowners in the Pinewood Greens community.  Our community wouldn't be as great as it is without the hard work of many volunteer homeowners such as yourself.  We are always looking for volunteers for everything from small one-time tasks to ongoing help.  If you're interested in helping out, we would love to hear from you.</p>
+                               <p class="text-center"> <a class="btn btn-primary btn-large" href="volunteer.html">Get Involved</a></p>
 </div>
 </div>
-		    <div class="medium-3 columns"><div class="row">
+</div>
+		    <div class="col-md-3"><div class="row">
 <iframe align="center" style="border: solid 1px #777"
                                                                         width="250" height="400"
                                                                         src="https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?title=Association%20Calendar&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York"
-                                                                        frameborder="5" scrolling="no"></iframe></div><div class="row"><a href="http://www.facebook.com/PinewoodGreens"><img src="http://static.viewbook.com/images/social_icons/facebook_32.png"/>Follow us on Facebook</a></div>
+                                                                        frameborder="5" scrolling="no"></iframe></div>
 	  </div>
 </div>
 					
 
 <div class="row">
-	            <div class="medium-6 columns">
+	            <div class="col-md-6">
 			<h3>Announcements</h3>
  {% capture fileContent %}
 {% include announcements.md %}
@@ -33,7 +31,7 @@ title: Pinewood Greens
 {{ fileContent | markdownify }}
 
 	            </div>
-<div class="medium-6 columns">
+<div class="col-md-6">
 			<h3>Neighborhood News</h3>
 <ul>
   {% for post in site.posts limit:5 %}
@@ -44,5 +42,6 @@ title: Pinewood Greens
   {% endfor %}
 </ul>
 	            </div>
+</div>
 
  
