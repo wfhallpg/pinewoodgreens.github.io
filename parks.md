@@ -5,7 +5,7 @@ title: Parks and Parties
 
 ## We Know How to Have Fun
 
-<img alt="" src="sites/default/files/images/golf_course.jpg" style="float: right;" />We are lucky that our next door neighbor is the [Jefferson District Golf Course](http://www.fairfaxcounty.gov/parks/golf/jefferson/) – it’s not necessary to get in the car to find a place for exercise. Most of us have used the tennis courts, basketball courts, a nine-hole golf course lined with trees, and a [miniature golf](http://www.fairfaxcounty.gov/parks/golf/jeffersongc/minigolf.htm) course where it is actually possible to get a hole in one.
+<img alt="" src="images/golf_course.jpg" style="float: right;" />We are lucky that our next door neighbor is the [Jefferson District Golf Course](http://www.fairfaxcounty.gov/parks/golf/jefferson/) – it’s not necessary to get in the car to find a place for exercise. Most of us have used the tennis courts, basketball courts, a nine-hole golf course lined with trees, and a [miniature golf](http://www.fairfaxcounty.gov/parks/golf/jeffersongc/minigolf.htm) course where it is actually possible to get a hole in one.
 
 Check out the [Fairfax County Parks](http://www.fairfaxcounty.gov/parks) website. There are plenty of other parks nearby. And there’s plenty of other fun to find if you check out a few websites for Virginia parks, Washington D.C. and parks up in Maryland.
 
