@@ -40,11 +40,11 @@ title: Pinewood Greens
 
   {% for post in site.posts limit:5 %}
     <h4>
-      <a href="{{ post.url }}"><span>{{ post.date | date_to_string }}</span> &raquo;  {{ post.title }}</a>  </h4>
+      <a href="{{ site.baseurl }}{{ post.url }}"><span>{{ post.date | date_to_string }}</span> &raquo;  {{ post.title }}</a>  </h4>
 <p>
       {{ post.excerpt }}
 
-<a href="{{ post.url }}">Read More...</a>
+<a href="{{ site.baseurl }}{{ post.url }}">Read More...</a>
 </p>
   
   {% endfor %}
