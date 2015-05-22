@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_with_title
 title: Steps for a Successful Yard Sale
 ---
 
