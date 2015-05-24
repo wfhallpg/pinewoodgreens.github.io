@@ -13,7 +13,7 @@ Trash should be on the curb by 6:00 a.m. on Tuesdays and Fridays. If that’s to
 
 The [Garbage Grid](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211550) tells you what goes in the recycling bin, what to do with furniture and large appliances, how to dispose of yard trash, and other assorted guides for special item removal.
 
-[AAA Recycling & Trash Removal Service](http://www.aaatrash.com/) takes away our garbage. You can reach them at 703-818-8222.
+[Republic Services](http://www.aaatrash.com/) takes away our garbage. You can reach them at 703-818-8222.
 
 ## Put out your Recycling on Fridays
 
@@ -21,4 +21,4 @@ Recycling day is Friday. The bins should be on the curb by 6:00 a.m. on Friday m
 
 ## Getting a Replacement Recycling Bin
 
-We always (well, almost always) have extras. Call the Association office. We'll be glad to give you one if you can stop by or we can leave one outside the Association office for you to pick up when you get home.
+We always (well, almost always) have extras. [Call the Association office](contactus.html). We'll be glad to give you one if you can stop by or we can leave one outside the Association office for you to pick up when you get home.
