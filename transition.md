@@ -20,10 +20,6 @@ Assessments are no longer processed by the association office.  Checks must now 
 
 Online Payment options are now available through the [resident portal](http://www.ciranet.com/ResidentPortal).  There is a fee of $14.95 for credit card payments.  E-Check and ACH payments do not incur additional fees.
 
-## Architectural Review Applications
-
-Architectural Applications for exterior modifications may now be submitted online.  The form may be uploaded through the [resident portal](http://www.ciranet.com/ResidentPortal).
-
 ## Pool Pass Applications
 
 Pool Pass applications are still submitted by paper to the association office.
