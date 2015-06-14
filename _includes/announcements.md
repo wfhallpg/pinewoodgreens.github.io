@@ -1,6 +1,3 @@
-#### Pool Party June 13th 1-3pm
-
-Summer is almost here and so is our annual Kick Off to Summer party. Please join us at the pool on Saturday June 13th from 1-3pm for fun, games, and of course ice cream. As always, we need some volunteer assistance, so if you can help out please email us at volunteer<span style="display:none">ajfjileajioafiwijojifoe</span>@pinewoodgreens.com.
 
 #### Management Transition
 
