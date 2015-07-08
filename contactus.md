@@ -21,15 +21,15 @@ The mailing address for paper checks is:
 
 ## Local Association Office
 
-Local staff are available to assist with pool pass application inquiries, architectural control questions, volunteer opportunities and other general questions.  The local office phone number is 703-560-8920.  The general office hours are:
-
 <img alt="" longdesc="Office door" src="images/office_door.jpg" style="width: 271px; height: 215px; float: right;" />
 
-| Monday | 10:00 am – 3:30 pm |
-| Tuesday | 10:00 am – 3:30 pm |
-| Wednesday | 10:00 am – 7:30 pm |
-| Thursday | 10:00 am – 3:30 pm |
-| Friday | 11:30 am – 3:30 pm |
+Local staff are available to assist with pool pass application inquiries, architectural control questions, volunteer opportunities and other general questions.  The local office phone number is 703-560-8920.  The general office hours are:
+
+| Monday | 8:30 am – 4:30 pm |
+| Tuesday | 8:30 am – 4:30 pm |
+| Wednesday | 10:30 am - 7:00 pm |
+| Thursday |8:30 am – 4:30 pm |
+| Friday | 8:30 am – 4:30 pm |
 
 <br>The mailing address for the local association office is:
 
