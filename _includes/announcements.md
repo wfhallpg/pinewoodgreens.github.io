@@ -1,6 +1,3 @@
-#### Adult Pool Party and CAMP Meet and Greet
-
-An Adult Pool Party and CAMP Meet and Greet will be held on Wednesday, July 29 from 7-9. This is a great chance to meet Casey, our wonderful new staff person, and other folks from our management company. It's also an opportunity to relax with friends and neighbors. The association will provide some light appetizers, and we encourage others to bring some food to share. Email Carrie if you have questions at volunteer@pinewoodgreens.com
 
 #### Management Transition
 
