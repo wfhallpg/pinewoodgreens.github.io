@@ -1,3 +1,6 @@
+#### Tree work
+
+Treework will be conducted the week of August 24-28. Please pay close attention to no parking signs.
 
 #### Management Transition
 
