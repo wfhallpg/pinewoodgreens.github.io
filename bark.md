@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_with_title
 title: Pinewood Bark
 ---
 
