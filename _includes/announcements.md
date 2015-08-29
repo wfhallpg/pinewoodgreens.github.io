@@ -1,6 +1,6 @@
-#### Tree work
+#### Community Tool Shed
 
-Treework will be conducted the week of August 24-28. Please pay close attention to no parking signs.
+The Pinewood Greens Lending Shed Program is up and running.  We have tools and other equipment available to borrow at no charge. Check out our [tool lending shed page](toolshed.html) for more details.
 
 #### Management Transition
 
