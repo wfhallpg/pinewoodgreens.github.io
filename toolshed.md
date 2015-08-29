@@ -32,3 +32,7 @@ Below are the guidelines for borrowing the tools to get the job done!
 - Tools must be cleaned prior to return.
 - Tools must be returned to the Pinewood Greens Tool Shed during the office hours.
 - Ladder/equipment/tools retuned in unclean or broken condition may result in the suspension of the user's borrowing privileges.
+
+## Forms and Documents
+
+Coming soon:  The application form and full set of rules.
