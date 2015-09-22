@@ -35,4 +35,5 @@ Below are the guidelines for borrowing the tools to get the job done!
 
 ## Forms and Documents
 
-Coming soon:  The application form and full set of rules.
+- [Application for Borrowing Privileges](https://onedrive.live.com/redir?resid=529E6218CA92DA58!8919&authkey=!AFnqF0594ZwyEdY&ithint=file%2cdocx)
+
