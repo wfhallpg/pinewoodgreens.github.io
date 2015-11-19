@@ -6,6 +6,7 @@ title: Pinewood Bark
 The Association newsletter, The Bark, is published twice annually and distributed to all of the homes in the neighborhood.  If you missed an issue, feel free to download a PDF version below.
 
 - [July 2015](https://onedrive.live.com/redir?resid=529e6218ca92da58!8900&authkey=!AGYdQdqWb2SltIk&ithint=file%2cpdf)
+- [October 2015](https://onedrive.live.com/redir?resid=529E6218CA92DA58!9007&authkey=!AIpyCBkbWHf99ps&ithint=file%2cpdf)
 
 ## Advertising
 
