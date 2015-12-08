@@ -1,0 +1,32 @@
+---
+layout: default_with_title
+title: Parking in our Neighborhood
+---
+
+Parking (or the lack of spaces to park) is a problem in almost every townhouse community.  In our community, we have approximately two parking spots per unit including reserved parking.  We do not require parking permits and we do not have the community monitored regularly by a towing company. 
+
+However, we do ask that everyone follow the [parking rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22) and abide by common community courtesy practices as much as possible to give everyone an opportunity to park close to their house.  The association can and will tow vehicles in non-compliance with the [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22) at the owner's expense.
+
+If your vehicle has been towed, please contact [Pete's Towing and Storage](http://www.petestowingandstorage.com/)
+
+#### Reserved parking
+
+Reserved spots are allocated for the exclusive use by the unit marked on the parking spot.  Pinewood Greens [parking regulations](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22) permit homeowners to have vehicles towed from his/her reserved spot at the vehicle owner's expense.  To have a vehicle towed from your reseved parking spot, please contact [Pete's Towing & Storage](http://www.petestowingandstorage.com/) at 703-533-1355.  If you have a vehicle towed, please notify the Pinewood Greens office at your earliest convenience to let us know.
+
+#### Non-reserved Parking
+
+Non-reserved parking spaces are on a first come, first serve basis. No homeowner has any specific rights to any non-reserved spot. If you have more than two cars: It has long been the courtesy practice within Pinewood Greens the third (or more) car from a given home NOT be parked on the court. These vehicles should be parked on Hyson Lane or in areas where extra spaces are consistently available at night and on weekends. This gives more chance for neighbors with only two cars to park on the court near their house.
+
+#### Long term storage of vehicles
+
+Under Pinewood Greens Common Property Parking Regulations, residents shall NOT park longer than 15 consecutive days in an unreserved space on community property. Vehicles stored for longer than 15 days will receive a tow notice.  If you have a vehicle that is consistently not used, we ask that you park it along Hyson Lane where there is plentiful public parking.
+
+#### Out of Date Registration
+
+Pinewood Greens regulations prohibit vehicles with expired license plates or safety inspection stickers from parking in our neighborhood. 
+
+#### Non-functioning Vehicles
+
+Vehicles that obviously cannot be driven are prohibited from parking on Pinewood Greens common property.
+
+For a full listing of our parking rules, please read our [Parking Rules](https://onedrive.live.com/view.aspx?resid=529E6218CA92DA58!1549&app=WordPdf%22).
