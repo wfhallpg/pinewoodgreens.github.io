@@ -5,11 +5,11 @@ title: Interested in Joining the Pinewood Greens Board of Directors?
 The Pinewood Greens Annual Meeting is coming up on March 16, and that means it's time for Board elections! This year, there are 3 positions on the Board of Directors open, and you could be one of them!
 
 There are many good reasons for joining the Board, including:
--  Protecting your property value
--  Addressing issues in the community
--  Meet neighbors
--  Gain professional experience
--  Most importantly, make Pinewood Greens the best community it can be!
+-  Protecting your property value    
+-  Addressing issues in the community    
+-  Meet neighbors    
+-  Gain professional experience    
+-  Most importantly, make Pinewood Greens the best community it can be!    
 
 The commitment is only once a month for Board meetings, though there is always something more to do that would be appreciated, including committee memberships, event planning, and other fun (and sometimes less fun) things. 
 
