@@ -11,7 +11,7 @@ There are many good reasons for joining the Board, including:
 -  Gain professional experience
 -  Most importantly, make Pinewood Greens the best community it can be!
 
-The commitment is only once a month for Board meetings, though there is always something more to do that would be appreciated, including committee memberships, event planning, and other fun (and sometimes less fun) things. 
+The commitment is only once a month for Board meetings, although there is always something more to do that would be appreciated, including committee memberships, event planning, and other fun (and sometimes less fun) things. 
 
 If you are interested, please contact **office@pinewoodgreens.com**. We are hoping to have interested candidates contact us by February 15, and we'll request a brief bio to help publicize your candidacy for the community.
 
