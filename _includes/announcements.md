@@ -1,3 +1,7 @@
+#### The Annual Meeting Is Here!
+
+The annual meeting will be held on Wednesday, March 16.  If you are unable to attend, please make sure to send in your [proxy forms](/documents/forms/Annual_Meeting_Proxy.pdf).  Proxy vote forms ensure that we meet the quorum requirements for holding the meeting and conducting community business such as board elections as required by our by-laws.
+
 
 #### Community Tool Shed
 
