@@ -9,11 +9,11 @@ We have two part-time employees working in the Association office, a financial m
 
 <img alt="" longdesc="Office door" src="images/office_door.jpg" style="width: 271px; height: 215px; float: right;" />
 
-| Monday | 10:00 am – 3:30 pm |
-| Tuesday | 10:00 am – 3:30 pm |
-| Wednesday | 10:00 am – 7:30 pm |
-| Thursday | 10:00 am – 3:30 pm |
-| Friday | 11:30 am – 3:30 pm |
+| Monday | 10:00 am – 4:30 pm |
+| Tuesday | 10:00 am – 4:30 pm |
+| Wednesday | 12:00 pm – 7:00 pm |
+| Thursday | 10:00 am – 4:30 pm |
+| Friday | 10:00 am – 4:30 pm |
 
 
 There may be times during these hours that the office is closed temporarily, to inspect the commons or to meet with homeowners. So it is always a good idea to call ahead if you need to talk with staff.
