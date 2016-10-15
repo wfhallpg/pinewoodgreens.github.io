@@ -3,7 +3,6 @@ layout: default_with_title
 title: Subscribe to our Mailing List 
 ---
 
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -28,6 +27,12 @@ title: Subscribe to our Mailing List
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
+<div class="mc-field-group input-group">
+    <strong>Pinewood Greens Groups </strong>
+    <ul><li><input type="checkbox" value="1" name="group[11661][1]" id="mce-group[11661]-11661-0"><label for="mce-group[11661]-11661-0">Volunteer Opportunities</label></li>
+<li><input type="checkbox" value="2" name="group[11661][2]" id="mce-group[11661]-11661-1"><label for="mce-group[11661]-11661-1">E-Newsletter</label></li>
+</ul>
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -39,5 +44,4 @@ title: Subscribe to our Mailing List
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
 
