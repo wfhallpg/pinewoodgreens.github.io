@@ -1,6 +1,10 @@
-#### Pinewood Greens Fall Festival 
+#### Pinewood Greens Fall Festival - October 29
 
 Pinewood Greens' Annual Fall Festival will be on Saturday, October 29, 2016, 12-2pm. Come ready to play some games, make some crafts, and eat some yummy food. We need your help to make this a great event, please sign up to help here. Please contact volunteer@pinewoodgreens.com with any questions.
+
+#### Street Work on Middlecoff PL October 17-20
+
+We will be performing concrete and paving work on Middlecoff PL from October 17-20.  No parking on Middlecoff will be allowed from 7am-6pm.
 
 #### Community Tool Shed
 
