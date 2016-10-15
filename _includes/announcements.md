@@ -6,6 +6,10 @@ Pinewood Greens' Annual Fall Festival will be on Saturday, October 29, 2016, 12-
 
 We will be performing concrete and paving work on Middlecoff PL from October 17-20.  No parking on Middlecoff will be allowed from 7am-6pm.
 
+#### Email Mailing List
+
+We have a new email mailing list.  [Subscribe]({{site.baseurl}}/subscribe.html) to receive emails about social events and important community information. 
+
 #### Community Tool Shed
 
 The Pinewood Greens Lending Shed Program is up and running.  We have tools and other equipment available to borrow at no charge. Check out our [tool lending shed page](toolshed.html) for more details.
