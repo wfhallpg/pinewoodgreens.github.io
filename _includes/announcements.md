@@ -4,8 +4,7 @@ Pinewood Greens' Annual Fall Festival will be on Saturday, October 29, 2016, 12-
 
 #### Street Work on Middlecoff PL October 17-20
 
-We will be performing concrete and paving work on Middlecoff Place from October 17-20.  Cars will need to be off the street from **6 am
-** to **5 pm**.  [More information](http://www.pinewoodgreens.com/2016/10/16/middlecoff-concrete-work.html)
+We will be performing concrete and paving work on Middlecoff Place from October 17-20.  Cars will need to be off the street from **6 am** to **5 pm**.  [More information](http://www.pinewoodgreens.com/2016/10/16/middlecoff-concrete-work.html)
 
 #### Community Tool Shed
 
