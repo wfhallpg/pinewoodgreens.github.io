@@ -1,6 +1,6 @@
 ---
 layout: default_with_title
-title: October 17-20 - Concrete Work on Middlecoff
+title: Concrete Work on Middlecoff (October 17-20)
 ---
 
 Concrete work on sidewalks, curbs, and gutters will be taking place on Middlecoff beginning Monday, October 17th 
