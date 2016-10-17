@@ -2,7 +2,7 @@
 
 Pinewood Greens' Annual Fall Festival will be on Saturday, October 29, 2016, 12-2pm. Come ready to play some games, make some crafts, and eat some yummy food. We need volunters to help to make this a successful event. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfEcOU92P-ps-FwoVFSYiprTFTvM3d8Hz6yt9pPWioaszfz4g/viewform) to help. Please contact volunteer@pinewoodgreens.com with any questions.
 
-#### Street Work on Middlecoff PL October 17-20
+#### Street Work on Middlecoff Place October 17-20
 
 We will be performing concrete and paving work on Middlecoff Place from October 17-20.  Cars will need to be off the street from **6 am** to **5 pm**.  [More information](http://www.pinewoodgreens.com/2016/10/16/middlecoff-concrete-work.html)
 
