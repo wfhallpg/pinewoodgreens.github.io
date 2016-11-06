@@ -1,10 +1,12 @@
-#### Pinewood Greens Fall Festival - October 29
+#### Fall Leaf Collection
 
-Pinewood Greens' Annual Fall Festival will be on Saturday, October 29, 2016, 12-2pm. Come ready to play some games, make some crafts, and eat some yummy food. We need volunters to help to make this a successful event. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfEcOU92P-ps-FwoVFSYiprTFTvM3d8Hz6yt9pPWioaszfz4g/viewform) to help. Please contact volunteer@pinewoodgreens.com with any questions.
+With the leaves falling from the trees, don't forget to rake the leaves out of your front and back yards onto the commons behind your house for the landscaper to pick up.
 
-#### Street Work on Middlecoff Place October 17-20
+Our landscaping contractor will be collecting leaves from the common areas on either Monday, November 7th or Tuesday November 8th.  The second leaf collection will happen during the first week of December.  We'll provide more updates when the final pickup date is finalized.
 
-We will be performing concrete and paving work on Middlecoff Place from October 17-20.  Cars will need to be off the street from **6 am** to **5 pm**.  [More information](http://www.pinewoodgreens.com/2016/10/16/middlecoff-concrete-work.html)
+#### Holiday Trash Collection Schedule
+
+Republic Services will be closed for the Thanksgiving holiday on Thursday, November 24.  Trash collection for our neighborhood will instead occur on Friday, November 25.  The recycling collection for that week will instead occur on Saturday, November 26.
 
 #### Community Tool Shed
 
