@@ -4,10 +4,6 @@ With the leaves falling from the trees, don't forget to rake the leaves out of y
 
 Our landscaping contractor will be collecting leaves from the common areas on either Monday, November 7th or Tuesday November 8th.  The second leaf collection will happen during the first week of December.  We'll provide more updates when the final pickup date is finalized.
 
-#### Holiday Trash Collection Schedule
-
-Republic Services will be closed for the Thanksgiving holiday on Thursday, November 24.  Trash collection for our neighborhood will instead occur on Friday, November 25.  The recycling collection for that week will instead occur on Saturday, November 26.
-
 #### Community Tool Shed
 
 The Pinewood Greens Lending Shed Program is up and running.  We have tools and other equipment available to borrow at no charge. Check out our [tool lending shed page](toolshed.html) for more details.
