@@ -1,6 +1,6 @@
 ---
 layout: default_with_title
-title: It's Cold Outside - Tips for beating the cold
+title: House Tips for Weathering the Cold
 ---
 
 The coldest air of the season is here!   With the wind chill, temperatures are expected to be in the teens and low 20’s.   We have some helpful tips to assist you with preparations for the cold weather.
