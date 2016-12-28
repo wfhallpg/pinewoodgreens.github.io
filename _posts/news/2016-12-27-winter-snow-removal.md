@@ -13,6 +13,7 @@ We never quite know if we will see any snow, but it’s smart to be prepared! He
 - The snow plows only clear a path in the middle of the street.  They do not remove all the snow behind cars parked in parking spaces.  Any remaining snow behind your vehicles will be your responsibility to remove.   When digging out your car, refrain from dumping snow in the street.  Instead, please move snow to common areas or your front yard.
 - The main sidewalk along Hyson Lane and around the school bus stops will also be cleared upon a 2" accumulation with the main goal to have a clear walk way.
 - Each homeowner is responsible for clearing the sidewalk in front of their home and it is encouraged that this be completed within 48 hours after the storm passes. 
+- In the event of an extremely heavy snow event, as we saw in January 2016, weather conditions may impact plow equipment availability or may exceed the capabilities of available equipment during the snow storm.  If such conditions do occur, we do ask for your patience throughout the snow storm and afterwards as we work diligently to clear off the roads and make them passable again. 
 
 VDOT guidelines are below for easy reference: 
 
