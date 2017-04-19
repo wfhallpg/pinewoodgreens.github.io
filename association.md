@@ -9,7 +9,7 @@ In Pinewood Greens we are an association of neighbors. What we do is guided by a
 
 Nine people have been elected by the members to direct our Association. Our meetings are held monthly at the community center, 2731 Hyson Lane, Falls Church, Virginia 22043.
 
-The board meetings are all listed on the [assocation calendar](https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York)(at right)
+The board meetings are all listed on the [association calendar](https://www.google.com/calendar/hosted/pinewoodgreens.com/embed?src=pinewoodgreens.com_8dlgr29ukho8ps0v8dumvs4hq0%40group.calendar.google.com&amp;ctz=America/New_York)(at right)
 
 Dates and times for Board meetings are also posted on the bulletin board at the front of the community center. Everyone is invited, so please come to our meetings. 
 
@@ -33,7 +33,7 @@ Dates and times for committee meetings are posted on association calendar and th
 - [Bylaws](documents/legal/Bylaws.pdf){:target="_new"}
 - [Articles of Incorporation](documents/legal/Articles_of_Incorporation.pdf){:target="_new"}
 
-As part of the sale process for houses in the community, it is neccessary to supply these documents and others to the purchaser. To request an official packet from the association you must fill out the [VPOAA Disclosure Request Form](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211553){:target="_new"}
+As part of the sale process for houses in the community, it is necessary to supply these documents and others to the purchaser. To request an official packet from the association you must fill out the [VPOAA Disclosure Request Form](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211553){:target="_new"}
 
 # Policies
 
