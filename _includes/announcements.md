@@ -1,4 +1,4 @@
-#### Pool Schedule Survery
+#### Pool Schedule Survey
 Would you like to adjust the pool hours for next season? Take our [survey](https://docs.google.com/forms/d/e/1FAIpQLSfDuWhfiLhQNoY98HPZivW69TDcP3CEjmACDER4jtIPO-p8Kw/viewform) by 9/26!
 
 
