@@ -10,7 +10,7 @@ It is important for you to remember that you must submit an Application for Arch
 *   [Application for Architectural Review](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211560)
     *   [Architecture and Maintenance Guidelines](https://onedrive.live.com/redir?resid=529E6218CA92DA58%214991) (effective 11/19/2014)
     *   Egress Window and Well [Guideline](documents/ACC/Egress window and well guideline-v20110126.pdf) and [Checklist](documents/ACC/Egress window and well checklist-v20110126.pdf) _(adopted 1/26/2011)_
-*   [Online Pool Pass Application Form](http://goo.gl/forms/A1Sl467NwK)
+*   [Online Pool Pass Application Form](https://goo.gl/forms/6EmqOO8sSx5ikyi23)
 	*   [Pool Landlord Delegation Form](https://onedrive.live.com/redir?resid=529E6218CA92DA58%218629)
 *   [Application for the Use of the Community Center](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211556)
      **Note: Rental fee is $225 plus a $250 security deposit.**
