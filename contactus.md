@@ -31,7 +31,7 @@ Local staff are available to assist with pool pass application inquiries, archit
 | Thursday | 9:30 am – 4:00 pm |
 | Friday | 9:30 am – 2:00 pm |
 
-From May 1 to September 1, the office hours are:
+<br>From May 1 to September 1, the office hours are:
 
 | Monday | 10:00 am – 4:00 pm |
 | Tuesday | 10:00 am – 4:00 pm |
